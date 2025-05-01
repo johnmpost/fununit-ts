@@ -1,0 +1,11 @@
+{
+  "name": "fununit-ts",
+  "main": "./lib.ts",
+  "scripts": {
+    "tsc": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "typescript": "^5.0.0"
+  }
+}
